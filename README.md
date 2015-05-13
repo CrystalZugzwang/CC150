@@ -1,2 +1,2 @@
-# Solutions to CC150 Exercises
-# Implement in Java
+Solutions to CC150 Exercises
+Implement in Java
